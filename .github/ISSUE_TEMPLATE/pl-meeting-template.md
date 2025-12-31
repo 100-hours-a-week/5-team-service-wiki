@@ -1,6 +1,6 @@
 ---
-name: PM/PL-Meeting-Template
-about: "\U0001F5E3️ PM/PL 미팅 회의록 템플릿"
+name: PL-Meeting-Template
+about: "\U0001F5E3️ PL 미팅 회의록 템플릿"
 title: ''
 labels: ''
 assignees: ''

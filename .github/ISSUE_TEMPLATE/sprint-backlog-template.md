@@ -6,7 +6,7 @@ labels: 스프린트-백로그
 assignees: ''
 Sprint: ''
 start_at: ''
-end_at''
+end_at: ''
 
 ---
 
